@@ -1,0 +1,8 @@
+Lumberjack
+Prisoner
+Soldier
+Guard
+Blacksmith
+Farmer
+Shepherd
+Slave

@@ -1,0 +1,13 @@
+Name: Neale
+Race: Half-elf
+Age: Adult
+Appearance: Formal, clean clothes
+
+Occupation: Prisoner
+Talent: Skilled actor
+Mannerisms: Uses colorful oaths and exclamations
+Behavior: Friendly
+
+Ideal: Aspiration
+Bond: Out for revenge
+Flaw: Foolhardy bravery

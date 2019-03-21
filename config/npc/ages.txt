@@ -1,0 +1,9 @@
+Juvenile
+Young
+Adolescent
+Mature
+Adult
+Middle aged
+Elderly
+Old
+Ancient
